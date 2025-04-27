@@ -13,7 +13,7 @@ This repository contains implementations of skyline algorithms:
 Run the following commands to execute the algorithms:
 
 ```bash
-# For 2D skyline algorithm
+# For generic skyline algorithm
 python3 main.py
 
 # For 3D skyline algorithm
